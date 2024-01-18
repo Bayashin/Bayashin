@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Bayashin" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayashin" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayashin&layout=compact&hide=SWIG,TeX,Makefile" />
   </a>
 </div>
 
